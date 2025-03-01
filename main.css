@@ -15,5 +15,9 @@
 
 .box {
     font-size: 40px;
-    text-align: center;
+    margin: 1rem auto;
+    color: aqua ;
+    background-color: green;
+    box-shadow: 5px 5px 5px;
+    width: 350px;
 }
