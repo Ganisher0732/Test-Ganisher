@@ -29,3 +29,21 @@
     width: 250px;
     box-shadow: 5px 5px 5px;
 }
+
+.myki {
+    font-size: 40px;
+    color: aqua;
+    background-color: green;
+    box-shadow: 5px 5px 5px;
+    text-align: center;
+    width: 1200px;
+    justify-content: center;
+    margin: 1rem auto;
+}
+
+.box-01 {
+    background-image: url(./men\ hackerma.webp);
+    width: 1900px;
+    height: 1000px;
+    background-size: cover;
+}
