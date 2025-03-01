@@ -21,3 +21,11 @@
     box-shadow: 5px 5px 5px;
     width: 350px;
 }
+
+.-_- {
+    margin: 1rem auto;
+    color: aqua;
+    background-color: green;
+    width: 250px;
+    box-shadow: 5px 5px 5px;
+}
